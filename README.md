@@ -1,4 +1,4 @@
-# Token Swap dApp w/ Ox API
+# Token Swap dApp w/ 0x API
 
 Completed as part of Alchemy's ["Road to Web3"](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
 
