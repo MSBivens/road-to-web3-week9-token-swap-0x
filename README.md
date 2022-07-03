@@ -20,6 +20,7 @@ Tools: Coin Gecko, 0x
 
 - 0x
 - Coin Gecko
+- Browserify
 
 ## To Get Started
 
